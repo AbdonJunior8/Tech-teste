@@ -1,0 +1,2 @@
+Ola, este e o meu primeiro arquivo no repositorio. 
+Estou aprendendo a utilizar os comandos do Git.
